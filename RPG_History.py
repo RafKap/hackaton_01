@@ -220,10 +220,10 @@ while True:
             print("You won game, congratulations!")
             break
         elif len(possible_locations) > 0:
-            choice_random = random.choice(possible_locations)(attack_current, defense_current, max_hp)
             attack_current = possible_attack_item.get(equipment.get("damage"))[1]
             defense_current = possible_defense_item.get(equipment.get("defense"))[1]
             max_hp = equipment["health_point"]
+            choice_random = random.choice(possible_locations)(attack_current, defense_current, max_hp)
     else:
         print('You are dead. End of the game')
 
