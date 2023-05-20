@@ -1,6 +1,13 @@
 # RPG game
 ##### RPG game where hero discover locations and needs to kill Armored dwarf as last boss. Locations are picked randomly and hero cannot go twice to same location
 
+# Content of Readme:
+* [Technology](#technology)
+* [Content of game](#content-of-game)
+
+## Technology:
+* Python 3.11
+
 
 # Content of game:
 * [Equipment](#equipment)
