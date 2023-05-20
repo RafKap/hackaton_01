@@ -49,7 +49,7 @@ In tavern hero will rest. It will increase max HP by 50. No fight necessary.
 [Werewolf](#werewolf) is guarding Cave. If You want to get any item from this location, first You need to kill guardian.
 
 #### Forest:
-In Forest [Small pixies](#small-pixie) got their camp. Hero can greet pixies or run away. Beware, not all of pixies are friendly.
+In Forest [Small pixies](#small-pixies) got their camp. Hero can greet pixies or run away. Beware, not all of pixies are friendly.
 
 #### Pyramid:
 Hero found sarcophagus in Pyramid. Old [Mummy](#mummy) wake up and attack You. Try to kill enemy if You want to find new item, or run away if You are too weak. 
@@ -62,7 +62,7 @@ In city You will spot [Armored Dwarf](#armored-dwarf). Boss of this game. Do not
 In journey hero will spot few enemies. One of them are easy to kill, another one impossible to defeat. Try to run away, if You cannot beat your enemy. 
 
 * [Werewolf](#werewolf)
-* [Small pixies](#small-pixie)
+* [Small pixies](#small-pixies)
 * [Mummy](#mummy)
 * [Armored Dwarf](#armored-dwarf)
 
