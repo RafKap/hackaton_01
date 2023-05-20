@@ -126,7 +126,7 @@ Defense: 15
 * Add new locations
 * Upgrade enemies
 * Add levels to hero and calculations in fight functions 
-* Add magic atack and magic defense, and calculations with those stats (e.g. Werefolw will be easier to defeat with magic atack than with normal atack)
+* Add magic atack and magic defense, and calculations with those stats (e.g. Werewolf will be easier to defeat with magic atack than with normal atack)
 
 
 ## Inspiration
